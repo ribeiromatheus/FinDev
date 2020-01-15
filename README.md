@@ -15,9 +15,8 @@ FinDev it's a web and mobile app to find devs near you that you can do what you'
 - [MongoDB (mongoose)](https://github.com/Automattic/mongoose)
 - [socket.io](https://github.com/socketio/socket.io)
 
-### Frontend
-- [react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
-- [react-navigation](https://github.com/react-navigation/react-navigation)
+### Frontend (Web)
+- [axios](https://github.com/axios/axios)
 - [socket.io-client](https://github.com/socketio/socket.io-client)
 
 ### Mobile
