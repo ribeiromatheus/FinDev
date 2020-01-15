@@ -1,7 +1,7 @@
-# Find dev
+# FinDev
 **Find devs near you**.
 
-Find dev it's a web and mobile app to find devs near you that you can do what you'd like to do. e.g., ask for some help, job offer, etc.
+FinDev it's a web and mobile app to find devs near you that you can do what you'd like to do. e.g., ask for some help, job offer, etc.
 
 ## Tecnologies
 - Node.js
@@ -9,12 +9,21 @@ Find dev it's a web and mobile app to find devs near you that you can do what yo
 - React Native with [Expo](https://expo.io/learn)
 
 ## Useful libs / modules
-- [react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
-- [react-navigation](https://github.com/react-navigation/react-navigation)
+### Backend
 - [express](https://github.com/expressjs/express)
 - [axios](https://github.com/axios/axios)
 - [MongoDB (mongoose)](https://github.com/Automattic/mongoose)
 - [socket.io](https://github.com/socketio/socket.io)
+
+### Frontend
+- [react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+- [socket.io-client](https://github.com/socketio/socket.io-client)
+
+### Mobile
+- [react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+- [react-navigation](https://github.com/react-navigation/react-navigation)
+- [axios](https://github.com/axios/axios)
 - [socket.io-client](https://github.com/socketio/socket.io-client)
 
 ## Requirements
