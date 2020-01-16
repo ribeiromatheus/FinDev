@@ -41,3 +41,6 @@ At first, clone the repo by running `git clone https://github.com/ribeiromatheus
 After cloning run `yarn` or `npm install` on **backend**, **frontend** and **findev** folder.
 
 After that, go to **backend** folder and rename `sample.env` file to `.env`, then enter your own credentials.
+
+## License
+MIT
