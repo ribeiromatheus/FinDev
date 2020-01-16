@@ -36,7 +36,7 @@ The web app is just a register page with a user dashboard.
 - [MongoDB Account](https://www.mongodb.com/cloud/atlas/efficiency?utm_source=google&utm_campaign=gs_americas_brazil_search_brand_atlas_desktop&utm_term=mongo%20atlas&utm_medium=cpc_paid_search&utm_ad=e&_bt=335229503988&_bn=g&gclid=EAIaIQobChMIhtmIud_E5gIVEISRCh0sygfvEAAYASABEgLGCvD_BwE)
 
 ## Get started
-At first, clone the repo by running `git clone https://github.com/ribeiromatheus/finDev.git` on your favorite terminal.
+At first, clone the repo by running `git clone https://github.com/ribeiromatheus/FinDev.git` on your favorite terminal.
 
 After cloning run `yarn` or `npm install` on **backend**, **frontend** and **findev** folder.
 
