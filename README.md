@@ -21,7 +21,7 @@ The web app is just a register page with a user dashboard.
 - [MongoDB (mongoose)](https://github.com/Automattic/mongoose)
 - [socket.io](https://github.com/socketio/socket.io)
 
-### Frontend (Web)
+### Web
 - [axios](https://github.com/axios/axios)
 - [socket.io-client](https://github.com/socketio/socket.io-client)
 
