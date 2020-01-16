@@ -1,7 +1,13 @@
 # FinDev
 **Find devs near you**.
 
-FinDev it's a web and mobile app to find devs near you that you can do what you'd like to do. e.g., ask for some help, job offer, etc.
+FinDev it's a web and mobile app to find devs near you - by using Github API and geolocation within 10Km (over 6 miles) radius - that you can do what you'd like to do. e.g., ask for some help with programming, job offer, etc.
+
+## About application
+### Web app
+The web app is just a register page with a user dashboard.
+
+![image](https://user-images.githubusercontent.com/41703972/72548737-0f271900-386e-11ea-91ee-6c466b9a28ef.png)
 
 ## Tecnologies
 - Node.js
