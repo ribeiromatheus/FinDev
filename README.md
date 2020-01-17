@@ -26,21 +26,29 @@ The web app is just a register page with a user dashboard.
 - [socket.io-client](https://github.com/socketio/socket.io-client)
 
 ### Mobile
-- [react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+- [react-native-maps](https://docs.expo.io/versions/latest/sdk/map-view/)
+- [expo-location](https://docs.expo.io/versions/latest/sdk/location/)
+- [react-native-webview](https://docs.expo.io/versions/latest/sdk/webview/)
 - [react-navigation](https://github.com/react-navigation/react-navigation)
+- [react-navigation-stack](https://github.com/react-navigation/stack)
 - [axios](https://github.com/axios/axios)
 - [socket.io-client](https://github.com/socketio/socket.io-client)
+- [@expo/vector-icons] - installed by default
 
 ## Requirements
 - [Node.js](https://nodejs.org)
 - [MongoDB Account](https://www.mongodb.com/cloud/atlas/efficiency?utm_source=google&utm_campaign=gs_americas_brazil_search_brand_atlas_desktop&utm_term=mongo%20atlas&utm_medium=cpc_paid_search&utm_ad=e&_bt=335229503988&_bn=g&gclid=EAIaIQobChMIhtmIud_E5gIVEISRCh0sygfvEAAYASABEgLGCvD_BwE)
 
 ## Get started
-At first, clone the repo by running `git clone https://github.com/ribeiromatheus/FinDev.git` on your favorite terminal.
-
-After cloning run `yarn` or `npm install` on **backend**, **frontend** and **findev** folder.
-
-After that, go to **backend** folder and rename `sample.env` file to `.env`, then enter your own credentials.
+1. At first, clone the repo by running `git clone https://github.com/ribeiromatheus/FinDev.git` on your favorite terminal.
+2. After cloning run `yarn` or `npm install` on **backend**, **frontend** and **findev** folder.
+3. After that, go to **backend** folder and rename `sample.env` file to `.env`, then enter your own credentials.
+4. Then, create a folder in the root project directory named **credentials**, then create a json file named **baseUrl** so you can add your ip address followed by server port or your server url. 
+```json
+{
+    "ip": "http://<ip goes here>:<port goes here>"
+}
+```
 
 ## License
 MIT
