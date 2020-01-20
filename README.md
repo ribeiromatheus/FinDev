@@ -9,7 +9,7 @@ The web app is just a register page with a user dashboard.
 
 ![image](https://user-images.githubusercontent.com/41703972/72548737-0f271900-386e-11ea-91ee-6c466b9a28ef.png)
 
-## Tecnologies
+## Technologies
 - Node.js
 - React
 - React Native with [Expo](https://expo.io/learn)
