@@ -3,7 +3,7 @@
 
 FinDev it's a web and mobile app to find devs near you - by using Github API and geolocation within 10Km (over 6 miles) radius - that you can do what you'd like to do. e.g., ask for some help with programming, job offer, etc.
 
-## About application
+## About the application
 ### Web app
 The web app is just a register page with a user dashboard.
 
@@ -33,7 +33,7 @@ The web app is just a register page with a user dashboard.
 - [react-navigation-stack](https://github.com/react-navigation/stack)
 - [axios](https://github.com/axios/axios)
 - [socket.io-client](https://github.com/socketio/socket.io-client)
-- [@expo/vector-icons] - installed by default
+- @expo/vector-icons (installed by default)
 
 ## Requirements
 - [Node.js](https://nodejs.org)
@@ -51,4 +51,4 @@ The web app is just a register page with a user dashboard.
 ```
 
 ## License
-MIT
+This project is under the MIT license. See the [LICENSE](https://github.com/ribeiromatheus/FinDev/blob/master/LICENSE) file for more details.
