@@ -12,6 +12,8 @@ The web app is just a register page with a user dashboard.
 ### Mobile app
 The mobile app is where we can find devs near us by a specific tech allowing us to see their names, bio and their github profile with one tap.
 
+![findev](https://user-images.githubusercontent.com/41703972/72831299-5001a200-3c61-11ea-90bb-9b981554aa02.jpg)
+
 ## Technologies
 - Node.js
 - React
