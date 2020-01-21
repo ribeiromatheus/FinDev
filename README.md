@@ -9,6 +9,9 @@ The web app is just a register page with a user dashboard.
 
 ![image](https://user-images.githubusercontent.com/41703972/72548737-0f271900-386e-11ea-91ee-6c466b9a28ef.png)
 
+### Mobile app
+The mobile app is where we can find devs near us by a specific tech allowing us to see their names, bio and their github profile with one tap.
+
 ## Technologies
 - Node.js
 - React
@@ -23,7 +26,6 @@ The web app is just a register page with a user dashboard.
 
 ### Web
 - [axios](https://github.com/axios/axios)
-- [socket.io-client](https://github.com/socketio/socket.io-client)
 
 ### Mobile
 - [react-native-maps](https://docs.expo.io/versions/latest/sdk/map-view/)
@@ -38,6 +40,7 @@ The web app is just a register page with a user dashboard.
 ## Requirements
 - [Node.js](https://nodejs.org)
 - [MongoDB Account](https://www.mongodb.com/cloud/atlas/efficiency?utm_source=google&utm_campaign=gs_americas_brazil_search_brand_atlas_desktop&utm_term=mongo%20atlas&utm_medium=cpc_paid_search&utm_ad=e&_bt=335229503988&_bn=g&gclid=EAIaIQobChMIhtmIud_E5gIVEISRCh0sygfvEAAYASABEgLGCvD_BwE)
+- [Expo](https://expo.io/learn)
 
 ## Get started
 1. At first, clone the repo by running `git clone https://github.com/ribeiromatheus/FinDev.git` on your favorite terminal.
