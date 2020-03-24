@@ -1,7 +1,7 @@
 # FinDev
 **Find devs near you**.
 
-FinDev it's a web and mobile app to find devs near you - by using Github API and geolocation within 10Km (over 6 miles) radius - that you can do what you'd like to do. e.g., ask for some help with programming, job offer, etc.
+FinDev is a web and mobile app to find devs near you - by using Github API and geolocation within 10Km (over 6 miles) radius - that you can do what you'd like to do. e.g., ask for some help with programming, job offer, etc.
 
 ## About the application
 ### Web app
