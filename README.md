@@ -48,7 +48,7 @@ The mobile app is where we can find devs near us by a specific tech allowing us 
 1. At first, clone the repo by running `git clone https://github.com/ribeiromatheus/FinDev.git` on your favorite terminal.
 2. After cloning run `yarn` or `npm install` on **backend**, **frontend** and **findev** folder.
 3. After that, go to **backend** folder and rename `sample.env` file to `.env`, then enter your own credentials.
-4. Then, create a folder in the root project directory named **credentials**, then create a json file named **baseUrl** so you can add your ip address followed by server port or your server url. 
+4. Next, go to **findev** folder and create in the root project directory named **credentials**, then create a json file named **baseUrl** so you can add your ip address followed by server port or your server url. 
 ```json
 {
     "ip": "http://<ip goes here>:<port goes here>"
