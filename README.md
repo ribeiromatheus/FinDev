@@ -1,4 +1,19 @@
-# FinDev
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/41703972/78928892-d024f000-7a77-11ea-8ab7-6f36f73eddfa.png">
+</div>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ribeiromatheus/findev">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ribeiromatheus/findev">
+  
+  <a href="https://github.com/ribeiromatheus/findev/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ribeiromatheus/findev">
+  </a>
+
+  <img alt="Packagist" src="https://img.shields.io/badge/License-MIT-green.svg">
+</p>
+
 **Find devs near you**.
 
 FinDev is a web and mobile app to find devs near you - by using Github API and geolocation within 10Km (over 6 miles) radius - that you can do what you'd like to do. e.g., ask for some help with programming, job offer, etc.
